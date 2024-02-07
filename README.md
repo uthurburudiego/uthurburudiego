@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Diego</h1>
-<h4 align="center"> Developer and also a programming student at the National Technological University, consult my <a href="https://github.com/uthurburudiego" target="_blank">resume</a> for more</h4>
+<h4 align="center"> Developer and also a programming student at the National Technological University, consult my <a href="https://drive.google.com/file/d/15wvpSWyI1_vjXS8FzL7T34HSrwyW51Rv/view?usp=sharing" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
